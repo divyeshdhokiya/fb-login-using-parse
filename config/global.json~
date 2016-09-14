@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "fbtestapp"
+        }, 
+        "fbtestapp": {
+            "applicationId": "qZL2rDoLhwR2yKgCJDrYi87fPvCCzmxoh1ce5jKS", 
+            "masterKey": "SSoOg6u1qrT3hPFIAo4K2uifzEemGoH9TTOhpq8G"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.4.0"
+    }
+}
