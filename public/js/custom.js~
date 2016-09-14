@@ -1,8 +1,8 @@
 $(document).ready(function () {
-    Parse.initialize("parse intialise key1", "parse intialise key2");
+    Parse.initialize("qZL2rDoLhwR2yKgCJDrYi87fPvCCzmxoh1ce5jKS", "vqhv3A3InIcU3apaaBCJLpYsmJ8eG4VARTzlqVjo");
     window.fbAsyncInit = function () {
         Parse.FacebookUtils.init({ // this line replaces FB.init({
-            appId: 'fb app id', // Facebook App ID
+            appId: '960958013923938', // Facebook App ID
             cookie: true,
             xfbml: true,  // initialize Facebook social plugins on the page
             version: 'v1.0' // point to the latest Facebook Graph API version
